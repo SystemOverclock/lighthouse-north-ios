@@ -46,7 +46,7 @@ import LighthouseNorthClient
 let client = LighthouseNorthClient.shared
 client.initialize(
     appKey: "ak_...",
-    apiBaseUrl: "https://api.lighthousenorth.com.br"
+    apiBaseUrl: "https://lighthousenorth.com.br"
 )
 ```
 
